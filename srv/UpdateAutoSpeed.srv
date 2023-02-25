@@ -1,0 +1,3 @@
+vehicle_interfaces/AutoEnableSpeed auto_speed
+---
+bool result
