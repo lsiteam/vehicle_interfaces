@@ -25,10 +25,6 @@ set(msg_files
   "msg/AutoEnableSpeed.msg"
   "msg/AutoSpeedConstant.msg"
   "msg/MediaPath.msg"
-  "srv/AllowVehicleMovement.srv"
-  "srv/UpdateVehicleMode.srv"
-  "srv/UpdateAutoSpeed.srv"
-  "srv/UpdateConstantSpeedRefs.srv"
 )
 
 rosidl_generate_interfaces(${PROJECT_NAME}
