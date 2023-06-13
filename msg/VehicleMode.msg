@@ -6,5 +6,5 @@ uint8 HINF=3
 uint8 CRAFTS=4
 uint8 SCORE=5
 
-std_msgs/Header header
-uint8 mode
+std_msgs/Header header # Time and frame information
+uint8 mode             # Mode of operation to control the vehicle

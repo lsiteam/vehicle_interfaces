@@ -18,6 +18,7 @@ set(msg_files
   "msg/VehicleSpeed.msg"
   "msg/VehicleSteering.msg"
   "msg/VehicleWheelDistance.msg"
+  "msg/VehicleControl.msg"
   "msg/OdometryScore.msg"
   "msg/CraftsScore.msg"
   "msg/VehicleMode.msg"
@@ -25,6 +26,7 @@ set(msg_files
   "msg/AutoEnableSpeed.msg"
   "msg/AutoSpeedConstant.msg"
   "msg/MediaPath.msg"
+  "msg/TrafficFlag.msg"
 )
 
 rosidl_generate_interfaces(${PROJECT_NAME}
