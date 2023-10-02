@@ -27,6 +27,7 @@ set(msg_files
   "msg/AutoSpeedConstant.msg"
   "msg/MediaPath.msg"
   "msg/TrafficFlag.msg"
+  "msg/Distance.msg"
 )
 
 rosidl_generate_interfaces(${PROJECT_NAME}
