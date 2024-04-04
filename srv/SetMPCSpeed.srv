@@ -1,0 +1,4 @@
+# This service message is to set a reference speed for the Model Predictive Controller
+float32 speed
+---
+bool result

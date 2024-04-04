@@ -1,0 +1,4 @@
+# This service message is used to reset the current controller
+                                   # Request is a blank line
+---
+bool result                        # Result of the process

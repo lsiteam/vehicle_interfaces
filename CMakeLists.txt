@@ -28,6 +28,8 @@ set(msg_files
   "msg/MediaPath.msg"
   "msg/TrafficFlag.msg"
   "msg/Distance.msg"
+  "srv/SetMPCSpeed.srv"
+  "srv/ResetMPC.srv"
 )
 
 rosidl_generate_interfaces(${PROJECT_NAME}
