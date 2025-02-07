@@ -26,8 +26,6 @@ set(msg_files
   "msg/AutoEnableSpeed.msg"
   "msg/AutoSpeedConstant.msg"
   "msg/MediaPath.msg"
-  "msg/TrafficFlag.msg"
-  "msg/Distance.msg"
   "srv/SetMPCSpeed.srv"
   "srv/ResetMPC.srv"
 )
